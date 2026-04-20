@@ -116,6 +116,7 @@ plt.show()
 ### Results
 
 ![salary distributions for data jobs in the US](images/salary_analysis.png)
+
 *Box plot visualizing salary distributions for the top 6 data job titles*
 
 ### Insights
